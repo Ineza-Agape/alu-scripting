@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import praw
 
 def recurse(subreddit, hot_list=None, reddit=None, limit=25):
